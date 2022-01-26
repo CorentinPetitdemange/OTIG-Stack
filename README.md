@@ -1,7 +1,7 @@
 # OTIG-Stack
 OPCUA - TELEGRAM - INFLUXDB - GRAFANA Stack
 
-This project is an IOT system for data acquisition, storage and visualization. For my example I use a PLC S7-1500 and an IPC beckhoff CU6030.
+This project is an IoT system for data acquisition, storage and visualization. For my example I use a PLC S7-1500 and an IPC beckhoff CU6030.
 This document deals with the installation and configuration of Telegraf, InfluxDB and Grafana. The integration of Grafana in the Twincat GUI. 
 The "Data processing" part is not covered in this project.
 
